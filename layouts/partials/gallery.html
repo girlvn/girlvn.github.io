@@ -40,5 +40,35 @@
         {{ end }}
       </a>
     {{ end }}
+
+    
+    {{ range .Params.images }}
+    {{ $image := . }}
+    {{/* Kiểm tra nếu đây là hình ảnh từ URL bên ngoài */}}
+    {{ $url := $image.url }}
+      {{ $alt := $image.alt }}
+      {{ $imageWidth := $image.width | default 600 }}  <!-- Thêm chiều rộng mặc định nếu chưa có -->
+      {{ $imageHeight := $image.height | default 800 }} <!-- Thêm chiều cao mặc định nếu chưa có -->
+      
+      {{/* Tạo một link ảnh từ URL */}}
+      <a class="gallery-item" href="" data-pswp-src="{{ $url }}" data-pswp-width="{{ $imageWidth }}" data-pswp-height="{{ $imageHeight }}" data-pswp-target="{{ $url | urlize }}" title="{{ $alt }}" itemscope itemtype="https://schema.org/ImageObject" style="aspect-ratio: {{ $imageWidth }} / {{ $imageHeight }};">
+        <figure style="background-color: #c4aea7; aspect-ratio: {{ $imageWidth }} / {{ $imageHeight }};">
+          <img class="lazyload" width="{{ $imageWidth }}" height="{{ $imageHeight }}" data-src="{{ $url }}" alt="{{ $alt }}" style="width: 100%; height: auto;" />
+        </figure>
+        <meta itemprop="contentUrl" content="{{ $url }}" />
+        {{ with site.Params.Author }}
+          <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+            <meta itemprop="name" content="{{ site.Params.Author.name }}" />
+          </span>
+        {{ end }}
+      </a>
+  {{ end }}
+    
   </div>
+</section>
+<section class="gallery">
+  <div id="gallery" style="overflow: hidden">
+    
+  </div>
+  
 </section>

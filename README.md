@@ -9,3 +9,9 @@ hugo mod get
 # Pull example images from Unsplash
 ./pull-images.sh
 ```
+---
+title: ""
+categories: [""]
+images:
+  
+---
