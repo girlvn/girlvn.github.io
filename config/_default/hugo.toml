@@ -6,7 +6,8 @@ languageCode = "en"
 timeZone = "Europe/Berlin"
 timeout = "120s"
 title = "Gallery"
-
+[server]
+  renderTimeout = "5m" 
 [params]
   defaultTheme = "dark"
   description = "Example site for hugo-theme-gallery"
@@ -53,5 +54,4 @@ title = "Gallery"
   [services.rss]
     limit = 100
   
-[server]
-  renderTimeout = "5m"  # This increases the timeout to 5 minutes.
+
