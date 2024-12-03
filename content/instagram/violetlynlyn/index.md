@@ -1,6 +1,6 @@
 ---
-title: "VioletNguyen"
-categories: big
+title: "violetlynlyn"
+categories: instagram
 description: "https://www.instagram.com/violetlynlyn"
 images:
   - url: "https://raw.githubusercontent.com/19an278082n/violetlynlyn/refs/heads/main/image/100893427_688119271760345_8318075996883376974_n.jpg"
