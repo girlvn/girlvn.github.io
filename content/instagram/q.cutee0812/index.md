@@ -1,6 +1,6 @@
 ---
-title: "QuynhAlee"
-categories: big
+title: "q.cutee0812"
+categories: instagram
 description: "https://www.instagram.com/q.cutee0812"
 images:
   - url: "https://raw.githubusercontent.com/19an278082n/q.cutee0812/refs/heads/main/image/277400717_321922563256603_5551872021124270766_n.jpg"
