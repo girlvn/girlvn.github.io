@@ -1,6 +1,6 @@
 ---
-title: "NguyenThuyDuong"
-categories: big
+title: "ntdjuli"
+categories: instagram
 description: "https://www.instagram.com/ntdjuli"
 images:
   - url: "https://raw.githubusercontent.com/19an278082n/ntdjuli/refs/heads/main/image/292696759_397912655528911_1690095459532115956_n.jpg"
