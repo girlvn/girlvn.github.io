@@ -1,6 +1,6 @@
 ---
 title: "d.t.t.h1311"
-categories: big
+categories: instagram
 description: "https://www.instagram.com/d.t.t.h1311"
 images:
   - url: "https://raw.githubusercontent.com/19an278082n/d.t.t.h1311/refs/heads/main/image/290606574_555654806026881_3576190852569434833_n.jpg"
