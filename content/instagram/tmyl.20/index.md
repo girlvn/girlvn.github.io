@@ -11,18 +11,10 @@ images:
     alt: "293056893_584771816384324_504295885317759506_n.jpg description"
     width: 1440
     height: 1440
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/318162493_654986449741911_1381180683029045569_n.jpg"
-    alt: "318162493_654986449741911_1381180683029045569_n.jpg description"
-    width: 1440
-    height: 1439
   - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/318309555_204765852022073_8624883359475793850_n.jpg"
     alt: "318309555_204765852022073_8624883359475793850_n.jpg description"
     width: 1440
     height: 1751
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/318418645_453035423647983_1152407337807284418_n.jpg"
-    alt: "318418645_453035423647983_1152407337807284418_n.jpg description"
-    width: 1440
-    height: 1440
   - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/321613636_713586383629858_4604452882430998774_n.jpg"
     alt: "321613636_713586383629858_4604452882430998774_n.jpg description"
     width: 1440
@@ -43,22 +35,6 @@ images:
     alt: "329039461_866805101199324_4607918286325158268_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/349510175_556577703079358_5182932948977839664_n.jpg"
-    alt: "349510175_556577703079358_5182932948977839664_n.jpg description"
-    width: 1440
-    height: 1440
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/350088444_755420679642860_4795917307840087_n.jpg"
-    alt: "350088444_755420679642860_4795917307840087_n.jpg description"
-    width: 1440
-    height: 1440
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/350118984_956593845379306_6102724105225824605_n.jpg"
-    alt: "350118984_956593845379306_6102724105225824605_n.jpg description"
-    width: 1440
-    height: 1440
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/350241359_1303618780252166_3020090785485901556_n.jpg"
-    alt: "350241359_1303618780252166_3020090785485901556_n.jpg description"
-    width: 1440
-    height: 1440
   - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/355130089_1008548977191277_9121914532959195723_n.jpg"
     alt: "355130089_1008548977191277_9121914532959195723_n.jpg description"
     width: 1440
@@ -79,26 +55,6 @@ images:
     alt: "363296533_272247538886992_1879209402166600433_n.jpg description"
     width: 1440
     height: 1788
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/364950820_827270412349575_1808683640542955317_n.jpg"
-    alt: "364950820_827270412349575_1808683640542955317_n.jpg description"
-    width: 1440
-    height: 1653
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/364986937_618482893453990_3618022801839692157_n.jpg"
-    alt: "364986937_618482893453990_3618022801839692157_n.jpg description"
-    width: 1440
-    height: 1653
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/365458009_1927556237621564_9044869058562946402_n.jpg"
-    alt: "365458009_1927556237621564_9044869058562946402_n.jpg description"
-    width: 1440
-    height: 1653
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/368556814_668889315163207_5679406608084382006_n.jpg"
-    alt: "368556814_668889315163207_5679406608084382006_n.jpg description"
-    width: 1440
-    height: 2561
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/368568140_713337707286224_4482986623172320715_n.jpg"
-    alt: "368568140_713337707286224_4482986623172320715_n.jpg description"
-    width: 1440
-    height: 1920
   - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/368590605_1347635279496066_3986507325701172434_n.jpg"
     alt: "368590605_1347635279496066_3986507325701172434_n.jpg description"
     width: 1440
@@ -291,16 +247,8 @@ images:
     alt: "448451167_454165944000084_6275362299918835648_n.jpg description"
     width: 1440
     height: 1933
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/448478662_1792054734655676_53154720205068647_n.jpg"
-    alt: "448478662_1792054734655676_53154720205068647_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/448488526_817253950057428_3732483653605182410_n.jpg"
     alt: "448488526_817253950057428_3732483653605182410_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/448689149_1569580640264563_6075922448936252953_n.jpg"
-    alt: "448689149_1569580640264563_6075922448936252953_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/448719443_1120637902360845_7083694868705781227_n.jpg"
@@ -311,10 +259,6 @@ images:
     alt: "448728742_513447271023244_917031055735711568_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/448848709_921684226398584_6051039294230744095_n.jpg"
-    alt: "448848709_921684226398584_6051039294230744095_n.jpg description"
-    width: 1440
-    height: 1440
   - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/448902990_465130149548139_8945083380475078350_n.jpg"
     alt: "448902990_465130149548139_8945083380475078350_n.jpg description"
     width: 1440
@@ -323,16 +267,8 @@ images:
     alt: "448911248_363622243108067_8136438627947561370_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/448986464_828068005983219_7074315762363451971_n.jpg"
-    alt: "448986464_828068005983219_7074315762363451971_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/448999819_1384885798846086_3459801974673655226_n.jpg"
     alt: "448999819_1384885798846086_3459801974673655226_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/451975594_3789213978072873_321674081068657223_n.jpg"
-    alt: "451975594_3789213978072873_321674081068657223_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/451978217_1157209932415623_2312184965457098270_n.jpg"
@@ -367,20 +303,12 @@ images:
     alt: "466684724_601106972343998_704915218533289977_n.jpg description"
     width: 1440
     height: 1080
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/466686696_1795594051183340_8167495138783723551_n.jpg"
-    alt: "466686696_1795594051183340_8167495138783723551_n.jpg description"
-    width: 969
-    height: 728
   - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/466750776_546661431305869_2466696097965973650_n.jpg"
     alt: "466750776_546661431305869_2466696097965973650_n.jpg description"
     width: 1440
     height: 1080
   - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/467548221_2278103269212872_4770478869272766055_n.jpg"
     alt: "467548221_2278103269212872_4770478869272766055_n.jpg description"
-    width: 1440
-    height: 1756
-  - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/467742582_1215519509538855_6650427246408819444_n.jpg"
-    alt: "467742582_1215519509538855_6650427246408819444_n.jpg description"
     width: 1440
     height: 1756
   - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/467742864_550700334416866_488357868907937338_n.jpg"
