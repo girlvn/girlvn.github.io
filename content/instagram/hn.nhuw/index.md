@@ -1,6 +1,6 @@
 ---
-title: "Nhu"
-categories: big
+title: "hn.nhuw"
+categories: instagram
 description: "https://www.instagram.com/hn.nhuw"
 images:
   - url: "https://raw.githubusercontent.com/19an278082n/hn.nhuw/refs/heads/main/image/105506381_152297289715553_7447927493398840849_n.jpg"
