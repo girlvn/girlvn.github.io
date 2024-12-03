@@ -1,6 +1,6 @@
 ---
-title: "TraGiang"
-categories: big
+title: "i.am.giang02"
+categories: instagram
 description: "https://www.instagram.com/i.am.giang02"
 images:
   - url: "https://raw.githubusercontent.com/19an278082n/i.am.giang02/refs/heads/main/image/162888084_788678115398405_5099397780510121206_n.jpg"
