@@ -1,6 +1,6 @@
 ---
-title: "TramyLuu"
-categories: big
+title: "tmyl.20"
+categories: instagram
 description: "https://www.instagram.com/tmyl.20"
 images:
   - url: "https://raw.githubusercontent.com/19an278082n/tmyl.20/refs/heads/main/image/292599340_110666994963326_370274666844739926_n.jpg"
